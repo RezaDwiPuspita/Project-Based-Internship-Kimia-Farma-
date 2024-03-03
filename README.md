@@ -186,6 +186,14 @@ FROM
 <br>
 </details>
 
+<br>
+
+<p align="center">
+    <kbd> <img width="750" alt="sample aggregat" src="https://github.com/RezaDwiPuspita/Project-Based-Internship-Kimia-Farma-/blob/main/Kimia%20Farma/Analisis%20Kimia%20Farma.png"> </kbd> <br>
+    Gambar 1 — Hasil Pembuatan Tabel Aggregat
+</p>
+<br>
+
 ---
 
 ## 📂 **Data Visualization**
