@@ -190,7 +190,7 @@ FROM
 
 <p align="center">
     <kbd> <img width="750" alt="sample aggregat" src="https://github.com/RezaDwiPuspita/Project-Based-Internship-Kimia-Farma-/blob/main/Kimia%20Farma/Analisis%20Kimia%20Farma.png"> </kbd> <br>
-    Gambar 1 — Hasil Pembuatan Tabel Aggregat
+    Gambar 2 — Pembuatan Tabel BigData Syntax
 </p>
 <br>
 
@@ -201,7 +201,7 @@ FROM
 [Lihat pada halaman Looker Data Studio]([https://lookerstudio.google.com/reporting/3c67b292-3be2-484d-bc29-27bd0b4015fd](https://lookerstudio.google.com/reporting/d8854498-5f76-4eab-b5a8-9ac692905f10))).
 
 <p align="center">
-    <kbd> <img width="1000" alt="Kimia_Farma_page-0001" src="https://user-images.githubusercontent.com/115857221/222877035-53371a89-081d-4ec5-9e72-65b0176a96fd.jpg"> </kbd> <br>
+    <kbd> <img width="1000" alt="Kimia_Farma_page-0001" src="https://github.com/RezaDwiPuspita/Project-Based-Internship-Kimia-Farma-/blob/main/Kimia%20Farma/Kimia_Farma%20Dashboard.jpg "> </kbd> <br>
     Gambar 3 — Sales Report Dashboard PT. Kimia Farma
 </p>
 <br>
