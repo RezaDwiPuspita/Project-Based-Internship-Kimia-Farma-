@@ -20,6 +20,7 @@ Big Data Analytics Kimia Farma merupakan virtual internship experience yang difa
 - Membuat visualisasi/dashboard laporan penjualan perusahaan
 - Belajar memahami kode syntax 
 
+--- 
 
 ## 📂 **Tabel Agregat**
 Tabel agregat adalah tabel yang dibuat dengan mengumpulkan dan menghitung data dari tabel basis. Tabel aggregat ini berisi informasi yang lebih ringkas dan digunakan untuk menganalisis data lebih cepat dan efisien. Hasil tabel ini akan digunakan untuk sumber pembuatan dashboard laporan penjualan.
