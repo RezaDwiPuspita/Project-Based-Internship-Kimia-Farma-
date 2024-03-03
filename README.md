@@ -21,7 +21,7 @@ VIX Big Data Analytics Kimia Farma merupakan virtual internship experience yang 
 - Belajar memahami kode syntax 
 
 
-### Tabel Aggregat
+## 📂 **Tabel Agregat**
 Tabel agregat adalah tabel yang dibuat dengan mengumpulkan dan menghitung data dari tabel basis. Tabel aggregat ini berisi informasi yang lebih ringkas dan digunakan untuk menganalisis data lebih cepat dan efisien. Hasil tabel ini akan digunakan untuk sumber pembuatan dashboard laporan penjualan.
 
 <details>
@@ -59,7 +59,7 @@ GROUP BY
 <br>
 </details>
 
-### BigData Syntax 
+## 📂 **BigData Syntax**
 Big data syntax merujuk pada aturan dan struktur yang digunakan untuk mengatur dan memanipulasi data besar (big data). Ini termasuk cara data disusun, diakses, dan diproses dalam lingkungan yang berukuran besar. Contohnya, dalam pemrograman menggunakan bahasa seperti Python, Java, atau SQL, menggunakan sintaks khusus untuk melakukan tugas seperti pengambilan data, pengolahan, dan analisis.
 
 <details>
