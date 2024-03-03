@@ -1,7 +1,7 @@
 # **Virtual Internship Experience: Big Data Analytics - Kimia Farma**
 Tool : Google Cloud 
 Visualization : Looker Data Studio - [Lihat dashboard](https://lookerstudio.google.com/reporting/d8854498-5f76-4eab-b5a8-9ac692905f10) <br>
-Dataset : 
+Dataset : [Dataset](https://www.rakamin.com/virtual-internship-experience/kimiafarma-big-data-analytics-virtual-internship-program)
 - Kf_final_transaction.csv
 - kf_inventory.csv
 - kf_kantor_cabang.csv
