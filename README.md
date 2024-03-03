@@ -202,6 +202,6 @@ FROM
 
 <p align="center">
     <kbd> <img width="1000" alt="Kimia_Farma_page-0001" src="https://github.com/RezaDwiPuspita/Project-Based-Internship-Kimia-Farma-/blob/main/Kimia%20Farma/Kimia_Farma%20Dashboard.jpg "> </kbd> <br>
-    Gambar 3 — Sales Report Dashboard PT. Kimia Farma
+    Gambar 3 —  Dashboard Analisis Bisnis Dashboard PT. Kimia Farma
 </p>
 <br>
