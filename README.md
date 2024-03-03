@@ -58,6 +58,14 @@ GROUP BY
 ```   
 <br>
 </details>
+<br>
+
+<p align="center">
+    <kbd> <img width="750" alt="sample aggregat" src="https://user-images.githubusercontent.com/115857221/222876809-62000814-75b6-4f82-b6b7-05d00e618315.png"> </kbd> <br>
+    Gambar 2 — Sampel Hasil Pembuatan Tabel Aggregat
+</p>
+<br>
+https://github.com/RezaDwiPuspita/Project-Based-Internship-Kimia-Farma-/commit/cbc9de6ad87ec1185685331662fdf31a3146cf7d#diff-49c1b4116b909efc10bae30b8727e1c75570873055f61bb14069f9d146f7f363
 
 ## 📂 **BigData Syntax**
 Big data syntax merujuk pada aturan dan struktur yang digunakan untuk mengatur dan memanipulasi data besar (big data). Ini termasuk cara data disusun, diakses, dan diproses dalam lingkungan yang berukuran besar. Contohnya, dalam pemrograman menggunakan bahasa seperti Python, Java, atau SQL, menggunakan sintaks khusus untuk melakukan tugas seperti pengambilan data, pengolahan, dan analisis.
